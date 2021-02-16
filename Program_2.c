@@ -5,7 +5,7 @@ int main()
 {
 //Replace Your Code and values in bellow two lines
 int a = 2;
-float b = 3.3
+float b = 3.3;
 
 //If you done correct you will get this meessage 
 printf("Good Job..");
