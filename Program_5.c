@@ -11,7 +11,8 @@ void main()
 {
     int a, b, temp;
     scanf("%d%d", &a, &b);
-
+ 
+    
     //Write your code here
   temp=a;
   a=b;
