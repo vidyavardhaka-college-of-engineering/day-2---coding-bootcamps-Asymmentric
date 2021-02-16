@@ -11,6 +11,7 @@ int L1=10;
 int L2=20;
 printf("%d",L1);
 printf("\n");
+
 printf("%d",L2);
 
 
